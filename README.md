@@ -1,2 +1,2 @@
-# Collab-Project2-EDA_analysis
+# Exploratory Data Analysis (EDA) – Customer / Business Dataset 
 Project using google collab Notebook
